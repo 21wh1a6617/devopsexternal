@@ -1,0 +1,2 @@
+"Update in file c" 
+"Update in file c (from master)" 

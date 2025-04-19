@@ -1,0 +1,2 @@
+"Update in file b" 
+"Update in file b (different from b1)" 
